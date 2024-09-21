@@ -1,2 +1,2 @@
 # Presentations
-A repo for all the stuff I've presented
+A repo with slide decks and code samples for my presentations and demos.
